@@ -2,7 +2,7 @@
 
 toggle theme changer
 
-deployment link => https://youtu.be/JQVBGtZMqgU?si=SoxXveAAvo8cK6lJ
+deployment link => https://themechangetoggle.vercel.app/
 
 reference => https://youtu.be/JQVBGtZMqgU?si=SoxXveAAvo8cK6lJ 
 #Chai and Code playlist by Hitesh Choudhary 
